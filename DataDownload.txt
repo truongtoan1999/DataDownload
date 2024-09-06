@@ -1,0 +1,16 @@
+1. Active Windowns
+https://raw.githubusercontent.com/truongtoan1999/ActiveWindows/main/ActiveWindows.cmd
+2. Install Chrome
+https://dl.google.com/chrome/install/latest/chrome_installer.exe
+3. Install CocCoc
+https://files1.coccoc.com/browser/coccoc_vi_machine.exe
+4. Install Office
+https://otp.landian.vip/redirect/download.php?type=runtime&arch=x86&site=yuntu
+5. Install Unikey
+https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
+6. Install WinRAR
+https://www.rarlab.com/rar/winrar-x32-701vn.exe
+7. Install Zalo
+https://zalo.me/download/zalo-pc?utm=90000
+8. Install Ultraview
+https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
