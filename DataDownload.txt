@@ -9,8 +9,8 @@ https://otp.landian.vip/redirect/download.php?type=runtime&arch=x86&site=yuntu
 5. Install Unikey
 https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
 6. Install WinRAR
-https://www.rarlab.com/rar/winrar-x32-701vn.exe
-7. Install Zalo
-https://zalo.me/download/zalo-pc?utm=90000
-8. Install Ultraview
+https://www.rarlab.com/rar/winrar-x32-701vn.ex
+7. Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
+8. Install Dism++
+https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip
