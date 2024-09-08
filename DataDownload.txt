@@ -5,7 +5,7 @@ https://dl.google.com/chrome/install/latest/chrome_installer.exe
 3. Install CocCoc
 https://files1.coccoc.com/browser/coccoc_vi_machine.exe
 4. Install Office
-https://otp.landian.vip/redirect/download.php?type=runtime&arch=x86&site=yuntu
+https://github.com/YerongAI/Office-Tool/releases/download/v10.14.21.8/Office_Tool_v10.14.21.8_x86.zip
 5. Install Unikey
 https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
 6. Install WinRAR
