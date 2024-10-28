@@ -12,9 +12,9 @@ https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
 https://www.rarlab.com/rar/winrar-x32-701vn.exe
 7. Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
-8. Install Ultraview
+8. Install Zalo
 https://res-download-pc-te-vnso-pt-39.zadn.vn/win/ZaloSetup-24.10.1.exe
-9. Install Ultraview
-https://res-download-pc-te-vnso-pt-39.zadn.vn/win/ZaloSetup-24.10.1.exe
+9. Install Foxit Reader
+https://cdn78.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup_Prom.exe
 10. Install Dism++
 https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip
