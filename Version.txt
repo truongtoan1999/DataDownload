@@ -1,4 +1,4 @@
 Version
 1.6.0.0
 Link Update
-https://raw.githubusercontent.com/truongtoan1999/DataDownload/main/KiemTraUpdate.exe
+https://dl.dropboxusercontent.com/scl/fi/qycge0l3x4lvxreptmzn7/KiemTraUpdate.exe?rlkey=y7myrzrcyanbqowza4aw31rbt&st=2yukhnjf&dl=0
