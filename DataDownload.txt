@@ -13,7 +13,7 @@ https://www.rarlab.com/rar/winrar-x32-701vn.exe
 7. Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
 8. Install Zalo
-https://res-download-pc-te-vnso-pt-39.zadn.vn/win/ZaloSetup-24.10.1.exe
+https://res-download-pc-te-vnso-zn-31.zadn.vn/win/ZaloSetup-24.12.1.exe
 9. Install Foxit Reader
 https://cdn78.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup_Prom.exe
 10. Install Dism++
