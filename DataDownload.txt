@@ -1,5 +1,5 @@
 1. Active Windowns
-https://raw.githubusercontent.com/truongtoan1999/ActiveWindows/main/ActiveWindows.cmd
+https://raw.githubusercontent.com/truongtoan1999/DataDownload/main/ActiveWindows.cmd
 2. Install Chrome
 https://dl.google.com/chrome/install/latest/chrome_installer.exe
 3. Install CocCoc
