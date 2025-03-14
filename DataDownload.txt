@@ -24,6 +24,8 @@ Disable Defender
 https://www.dropbox.com/scl/fi/w3yqxjdwyxbdsbrzs6gfn/DisableDefender.zip?rlkey=ldus4wcykznv5zf955zgi5o85&st=3qd4c5p3&dl=1
 Disable Update
 https://www.dropbox.com/scl/fi/lxcav5hq1ginr02wzud2b/DisableUpdate.exe?rlkey=vsvgm865fk8zk4auptjc9k25d&st=wybnnt97&dl=1
+Uninstall Office 
+https://www.dropbox.com/scl/fi/hz3jd2hn5ommi63gr09ge/OUninstall.zip?rlkey=9udv5hywi3yxak8gcnw92pkre&st=52d5j1fo&dl=1
 Install Chrome
 https://dl.google.com/chrome/install/latest/chrome_installer.exe
 Install CocCoc
