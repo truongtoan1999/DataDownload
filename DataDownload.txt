@@ -18,27 +18,25 @@ https://www.dropbox.com/scl/fi/riegffqo4n98f9vcqiuyo/WinNTSetup.zip?rlkey=9m5ni6
 https://www.dropbox.com/scl/fi/up7vlac6zhx03qzehjgr1/PartitionWizard.zip?rlkey=7r7zpah1dfpbz6lgi3hnzs5cp&st=61aym6he&dl=1
 10.AnyDesk
 https://www.dropbox.com/scl/fi/dnmjq9l2ujkvnj2ywvkfq/AnyDesk.exe?rlkey=i8nxdwqta0homvkdce121t59u&st=wpwz9vkr&dl=1
-11.Troubleshoot Tool
-https://www.dropbox.com/scl/fi/k5outxdzbn327421tk7d7/TroubleshooterTool.diagcab?rlkey=bom0mylk7u0su8w9ivu1xhn7v&st=iykcs53v&dl=1
-12.Active Windowns
+11.Active Windowns
 https://www.dropbox.com/scl/fi/mowoviv16pxzqjyb2mv3f/ActiveWindows.cmd?rlkey=d8pqeorls8vj2mqibqawsy44i&st=eqo5zqku&dl=1
-13.Disable Defender
+12.Disable Defender
 https://www.dropbox.com/scl/fi/w3yqxjdwyxbdsbrzs6gfn/DisableDefender.zip?rlkey=ldus4wcykznv5zf955zgi5o85&st=3qd4c5p3&dl=1
-14.Disable Update
+13.Disable Update
 https://www.dropbox.com/scl/fi/lxcav5hq1ginr02wzud2b/DisableUpdate.exe?rlkey=vsvgm865fk8zk4auptjc9k25d&st=wybnnt97&dl=1
-15.Install Chrome
+14.Install Chrome
 https://dl.google.com/chrome/install/latest/chrome_installer.exe
-16.Install CocCoc
+15.Install CocCoc
 https://files1.coccoc.com/browser/coccoc_vi_machine.exe
-17.Install Office
+16.Install Office
 https://otp.landian.vip/redirect/download.php?type=runtime&arch=x86&site=github
-18.Install Unikey
+17.Install Unikey
 https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
-19.Install WinRAR
+18.Install WinRAR
 https://www.rarlab.com/rar/winrar-x32-701vn.exe
-20.Install Zalo
+19.Install Zalo
 https://res-download-pc-te-vnno-ne-4.zadn.vn/win/ZaloSetup-25.2.2.exe
-21.Install Ultraview
+20.Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
-22.Install PDF Viewer
+21.Install PDF Viewer
 https://downloads.pdf-xchange.com/PDFXVwer.exe
