@@ -42,4 +42,3 @@ https://res-download-pc-te-vnno-ne-4.zadn.vn/win/ZaloSetup-25.2.2.exe
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
 22. Install PDF Viewer
 https://downloads.pdf-xchange.com/PDFXVwer.exe
-23. Tool
