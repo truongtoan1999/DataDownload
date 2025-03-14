@@ -26,6 +26,8 @@ Disable Update
 https://www.dropbox.com/scl/fi/lxcav5hq1ginr02wzud2b/DisableUpdate.exe?rlkey=vsvgm865fk8zk4auptjc9k25d&st=wybnnt97&dl=1
 Uninstall Office 
 https://www.dropbox.com/scl/fi/hz3jd2hn5ommi63gr09ge/OUninstall.zip?rlkey=9udv5hywi3yxak8gcnw92pkre&st=52d5j1fo&dl=1
+Windows Utility
+https://www.dropbox.com/scl/fi/p6sfb8ei33lswq3rw7zsi/Windows-Utility.ps1?rlkey=1plkvsc31bw6e7uebu4n0zpe8&st=km35crjo&dl=1
 Install Chrome
 https://dl.google.com/chrome/install/latest/chrome_installer.exe
 Install CocCoc
