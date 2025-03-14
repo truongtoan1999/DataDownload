@@ -19,7 +19,7 @@ https://www.dropbox.com/scl/fi/up7vlac6zhx03qzehjgr1/PartitionWizard.zip?rlkey=7
 10.AnyDesk
 https://www.dropbox.com/scl/fi/dnmjq9l2ujkvnj2ywvkfq/AnyDesk.exe?rlkey=i8nxdwqta0homvkdce121t59u&st=wpwz9vkr&dl=1
 11.Troubleshoot Tool
-https://download.microsoft.com/download/7/E/9/7E9188C0-2511-4B01-8B4E-0A641EC2F600/MicrosoftProgram_Install_and_Uninstall.meta.diagcab
+https://www.dropbox.com/scl/fi/k5outxdzbn327421tk7d7/TroubleshooterTool.diagcab?rlkey=bom0mylk7u0su8w9ivu1xhn7v&st=iykcs53v&dl=1
 12.Active Windowns
 https://www.dropbox.com/scl/fi/mowoviv16pxzqjyb2mv3f/ActiveWindows.cmd?rlkey=d8pqeorls8vj2mqibqawsy44i&st=eqo5zqku&dl=1
 13.Disable Defender
