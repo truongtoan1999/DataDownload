@@ -1,20 +1,45 @@
-1. Active Windowns
-https://raw.githubusercontent.com/truongtoan1999/DataDownload/main/ActiveWindows.cmd
-2. Install Chrome
+1. Furmark
+https://www.dropbox.com/scl/fi/mjfwh5o315ccieczrqg1r/FurMark.zip?rlkey=wkzk2nhwo0jt2k9ymmy7zy9vt&st=82h64h9t&dl=1
+2. Disk Mark
+https://www.dropbox.com/scl/fi/o89nh5ra0x7q6rfz9kut5/DiskMark.zip?rlkey=43kx16qdz1ofu0zi1o8n42dn6&st=s6pa0tzl&dl=1
+3. HDSentinel
+https://www.dropbox.com/scl/fi/lhdxa1mvh5bfji311purw/HDSentinel.zip?rlkey=zdqo67p4x4cz5zj0diuk0tjs1&st=83xapea2&dl=1
+4. Bootice
+https://www.dropbox.com/scl/fi/vq7xscxuu3qtyb4i6v2sc/Bootice.exe?rlkey=i0qmsvx2zzkei73pmeitpubun&st=qovaku60&dl=1
+5. Unlocker
+https://www.dropbox.com/scl/fi/h2htbmp6132fa3wug48y9/Unlocker.zip?rlkey=791nzoo23hwye3pp9xk5kpua8&st=ofbo7n41&dl=1
+6. SpeedTest
+https://www.dropbox.com/scl/fi/i1n5flumn1oawbmfbzml5/Speedtest.zip?rlkey=0sek5fh1fg45ea0wtsw14f7nj&st=uzz15kho&dl=1
+7. Everything
+https://www.dropbox.com/scl/fi/i8yhbf0eoq7mym9t7kfzr/Everything.exe?rlkey=nya1p7m54fm0equuxfbcx9d5b&st=8wnc58p8&dl=1
+8. WinNTSetup
+https://www.dropbox.com/scl/fi/riegffqo4n98f9vcqiuyo/WinNTSetup.zip?rlkey=9m5ni6tda8k8c9f70blsg5x48&st=acs7rcry&dl=1
+9. Partition Wizard
+https://www.dropbox.com/scl/fi/up7vlac6zhx03qzehjgr1/PartitionWizard.zip?rlkey=7r7zpah1dfpbz6lgi3hnzs5cp&st=61aym6he&dl=1
+10. AnyDesk
+https://www.dropbox.com/scl/fi/dnmjq9l2ujkvnj2ywvkfq/AnyDesk.exe?rlkey=i8nxdwqta0homvkdce121t59u&st=wpwz9vkr&dl=1
+11. Troubleshoot Tool
+https://download.microsoft.com/download/7/E/9/7E9188C0-2511-4B01-8B4E-0A641EC2F600/MicrosoftProgram_Install_and_Uninstall.meta.diagcab
+12. Active Windowns
+https://www.dropbox.com/scl/fi/mowoviv16pxzqjyb2mv3f/ActiveWindows.cmd?rlkey=d8pqeorls8vj2mqibqawsy44i&st=eqo5zqku&dl=1
+13. Disable Defender
+https://www.dropbox.com/scl/fi/w3yqxjdwyxbdsbrzs6gfn/DisableDefender.zip?rlkey=ldus4wcykznv5zf955zgi5o85&st=3qd4c5p3&dl=1
+14. Disable Update
+https://www.dropbox.com/scl/fi/lxcav5hq1ginr02wzud2b/DisableUpdate.exe?rlkey=vsvgm865fk8zk4auptjc9k25d&st=wybnnt97&dl=1
+15. Install Chrome
 https://dl.google.com/chrome/install/latest/chrome_installer.exe
-3. Install CocCoc
+16. Install CocCoc
 https://files1.coccoc.com/browser/coccoc_vi_machine.exe
-4. Install Office
+17. Install Office
 https://otp.landian.vip/redirect/download.php?type=runtime&arch=x86&site=github
-5. Install Unikey
+18. Install Unikey
 https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
-6. Install WinRAR
+19. Install WinRAR
 https://www.rarlab.com/rar/winrar-x32-701vn.exe
-7. Install Ultraview
+20. Install Zalo
+https://res-download-pc-te-vnno-ne-4.zadn.vn/win/ZaloSetup-25.2.2.exe
+21. Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
-8. Install Zalo
-https://res-download-pc-te-vnso-pt-49.zadn.vn/win/ZaloSetup-24.12.1.exe
-9. Install Foxit Reader
-https://cdn78.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup_Prom.exe
-10. Install Dism++
-https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip
+22. Install PDF Viewer
+https://downloads.pdf-xchange.com/PDFXVwer.exe
+23. Tool
