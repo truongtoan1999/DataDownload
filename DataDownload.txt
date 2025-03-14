@@ -12,7 +12,7 @@ SpeedTest
 https://www.dropbox.com/scl/fi/i1n5flumn1oawbmfbzml5/Speedtest.zip?rlkey=0sek5fh1fg45ea0wtsw14f7nj&st=uzz15kho&dl=1
 Everything
 https://www.dropbox.com/scl/fi/i8yhbf0eoq7mym9t7kfzr/Everything.exe?rlkey=nya1p7m54fm0equuxfbcx9d5b&st=8wnc58p8&dl=1
-WNTSetup
+cc
 https://www.dropbox.com/scl/fi/riegffqo4n98f9vcqiuyo/WNTSetup.zip?rlkey=9m5ni6tda8k8c9f70blsg5x48&st=h4qjdxhp&dl=1
 Partition Wizard
 https://www.dropbox.com/scl/fi/up7vlac6zhx03qzehjgr1/PartitionWizard.zip?rlkey=7r7zpah1dfpbz6lgi3hnzs5cp&st=61aym6he&dl=1
