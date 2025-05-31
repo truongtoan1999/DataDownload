@@ -29,7 +29,7 @@ https://www.dropbox.com/scl/fi/hz3jd2hn5ommi63gr09ge/OUninstall.zip?rlkey=9udv5h
 Windows Utility
 https://www.dropbox.com/scl/fi/p6sfb8ei33lswq3rw7zsi/Windows-Utility.ps1?rlkey=1plkvsc31bw6e7uebu4n0zpe8&st=km35crjo&dl=1
 Install Chrome
-https://dl.google.com/chrome/install/latest/chrome_installer.exe
+https://www.dropbox.com/scl/fi/2k69w2sdvf5y0bfbzlycd/ChromeSetup.exe?rlkey=e26tgyhg3g4603o1jrmqgf8lk&st=6ntcte8u&dl=1
 Install CocCoc
 https://files1.coccoc.com/browser/coccoc_vi_machine.exe
 Install Office
