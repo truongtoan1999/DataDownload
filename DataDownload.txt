@@ -39,7 +39,7 @@ https://www.unikey.org/assets/release/unikey46RC2-230919-win32.zip
 Install WinRAR
 https://www.rarlab.com/rar/winrar-x32-701vn.exe
 Install Zalo
-https://res-download-pc-te-vnno-ne-4.zadn.vn/win/ZaloSetup-25.2.2.exe
+https://res-download-pc-te-vnso-pt-49.zadn.vn/win/ZaloSetup-25.7.2.exe
 Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
 Install PDF Viewer
