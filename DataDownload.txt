@@ -19,7 +19,7 @@ https://www.dropbox.com/scl/fi/up7vlac6zhx03qzehjgr1/PartitionWizard.zip?rlkey=7
 AnyDesk
 https://www.dropbox.com/scl/fi/dnmjq9l2ujkvnj2ywvkfq/AnyDesk.exe?rlkey=i8nxdwqta0homvkdce121t59u&st=wpwz9vkr&dl=1
 Active Windowns
-https://raw.githubusercontent.com/truongtoan1999/DataDownload/main/ActiveWindows.cmd
+https://www.dropbox.com/scl/fi/mowoviv16pxzqjyb2mv3f/ActiveWindows.cmd?rlkey=d8pqeorls8vj2mqibqawsy44i&st=kbp8zgl6&dl=1
 Disable Defender
 https://www.dropbox.com/scl/fi/w3yqxjdwyxbdsbrzs6gfn/DisableDefender.zip?rlkey=ldus4wcykznv5zf955zgi5o85&st=3qd4c5p3&dl=1
 Disable Update
@@ -44,3 +44,4 @@ Install Ultraview
 https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe
 Install PDF Viewer
 https://downloads.pdf-xchange.com/PDFXVwer.exe
+
